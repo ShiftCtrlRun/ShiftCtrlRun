@@ -1,1 +1,11 @@
-
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.gray {
+    background-color: gray,
+}
+ol {
+    list-style-type: circle;
+    text-align: center;
+}
