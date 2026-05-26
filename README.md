@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning something...hopefully<br>🎯 Goals: The basic thing everyone wants...like making a cool game of program everybody loves<br>🎲 Fun fact: rather uninteresting person</p>
+<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning something...hopefully<br>🎯 Goals: The basic thing everyone wants...like making a cool game or program everybody loves<br>🎲 Fun fact: rather uninteresting person</p>
 
 ###
 
